@@ -1,3 +1,9 @@
+"""Disclaimer
+This is program is inspired from https://github.com/MM-Phoenix/Countdown-Timer/blob/master/Countdown%20%E2%8F%B1.py
+
+"""
+
+
 import time, sys, random
 
 TIME = "\r{:02d}:{:02d}"
